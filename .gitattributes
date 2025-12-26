@@ -1,7 +1,9 @@
 /mvnw text eol=lf
 *.cmd text eol=crlf
-node_modules/* linguist-documentation=false linguist-vendored=true
-frontend/generated/* linguist-documentation=false linguist-vendored=true
-*.js linguist-detectable=false
-*.json linguist-detectable=false
 frontend/** linguist-vendored
+node_modules/** linguist-vendored
+*.json linguist-generated
+*.yaml linguist-generated
+*.lock linguist-generated
+*.d.ts linguist-generated
+*.java linguist-detectable=true
