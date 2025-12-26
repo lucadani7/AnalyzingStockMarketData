@@ -1,2 +1,4 @@
 /mvnw text eol=lf
 *.cmd text eol=crlf
+node_modules/* linguist-documentation=false linguist-vendored=true
+frontend/generated/* linguist-documentation=false linguist-vendored=true
