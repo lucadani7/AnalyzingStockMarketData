@@ -32,11 +32,9 @@ build/
 
 # Vaadin / Frontend
 node_modules/
-package-lock.json
-package.json
-vite.config.ts
-types.d.ts
 frontend/generated/
+package-lock.json
+.vaadin/
 
 ### VS Code ###
 .vscode/
